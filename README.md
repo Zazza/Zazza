@@ -1,17 +1,16 @@
 # Hi there 👋 I'm Dmitry
 
-I build local-first desktop applications and developer tools that prioritize privacy, performance, and user control.  
-Currently focused on making local AI workflows accessible without compromising on engineering quality.
+I've created multiple PHP projects with strong community adoption, and now exploring Go + Local AI to push the boundaries of what desktop apps can do.
 
 ---
 
 ### 🛠️ Tech Stack
 | Layer | Technologies |
 |-------|-------------|
-| Backend | Go 1.25+, Wails v2, SQLite, REST APIs |
-| Frontend | Vue 3, TypeScript, Vite, Wails Runtime |
+| Primary | PHP 8.x, Symfony, MySQL/PostgreSQL, Redis |
+| Secondary | Go 1.25+, Wails v2, Vue 3, TypeScript, SQLite |
 | AI/ML | Stable Diffusion (Forge/A1111), Local LLMs (Ollama, llama.cpp), Vision Models |
-| DevOps | Make, Docker, GitHub Actions, Cross-platform builds (Win/macOS/Linux) |
+| DevOps | Docker, GitHub Actions, CI/CD, Linux server administration |
 
 ---
 
@@ -28,10 +27,10 @@ A privacy-first desktop client for local Stable Diffusion + LLM workflows. No cl
 ---
 
 ### 📌 Currently
-- 🔍 Optimizing onboarding: reducing setup friction for local AI tools
+- 🔍 Balancing PHP expertise with Go/AI experimentation
 - 📖 Documenting engineering decisions over raw code output
-- 💼 Open to Backend / Fullstack (Go) roles where depth, trade-off analysis, and product thinking matter
-- 🌍 Prefer local-first, privacy-respecting architectures
+- 💼 Open to Senior PHP / Fullstack roles (with interest in Go/AI projects)
+- 🌍 Prefer remote-friendly, product-focused teams
 
 ---
 
